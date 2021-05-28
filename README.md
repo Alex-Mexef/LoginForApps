@@ -1,5 +1,5 @@
 # LoginForApps
 1st web
-![Image of Login for apps](https://https://imgur.com/a/9ch7eW5)
+![Image of Login for apps](https://github.com/Alex-Mexef/LoginForApps/blob/main/Screenshot_1.png)
 
 
